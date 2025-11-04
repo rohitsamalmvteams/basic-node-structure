@@ -1,0 +1,24 @@
+{
+  "name": "basic-node-structure",
+  "version": "1.0.0",
+  "description": "This project describes the node basic structure",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rohitsamalmvteams/basic-node-structure.git"
+  },
+  "keywords": [
+    "node",
+    "basic",
+    "sturcture"
+  ],
+  "author": "Rohit Samal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rohitsamalmvteams/basic-node-structure/issues"
+  },
+  "homepage": "https://github.com/rohitsamalmvteams/basic-node-structure#readme"
+}
